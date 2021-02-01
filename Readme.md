@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Капитан Бардак](https://up.htmlacademy.ru/javascript/22/user/902843).
-* Наставник: `Неизвестно`.
+* Наставник: [Егор Глебов](https://htmlacademy.ru/profile/beast).
 
 ---
 
