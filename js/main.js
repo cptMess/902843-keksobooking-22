@@ -6,7 +6,6 @@ const getRandomInt = function (min, max) {
 getRandomInt(0, 101);
 console.log(getRandomInt(0, 101));
 
-
 // случайное число с плавающей точкой
 const getRandomFloat = function (min, max, symbol) {
   return parseFloat((Math.random() * (max - min) + min).toFixed(symbol));
