@@ -112,4 +112,4 @@ const createArray = (elementArray) => {
 
 createArray(10);
 
-console.log(createArray(10));
+//console.log(createArray(10));
